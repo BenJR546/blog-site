@@ -78,7 +78,7 @@ aside {
     align-items: stretch;
     flex-flow: column wrap;
     justify-content: center;
-    border-left: double 1rem;
+    border: 1px solid var(--dark-accent);
   }
   
   /*
